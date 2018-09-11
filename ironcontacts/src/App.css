@@ -1,0 +1,15 @@
+.App {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.contact {
+  display: flex;
+  flex-direction: row nowrap;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.contact img {
+  height: 100px;
+}
